@@ -1,2 +1,20 @@
 // Import page-specific CSS files here.
 @import "home";
+.pic {
+  height: 260px;
+  width: 100%;
+}
+.card {
+  border-style: solid;
+  margin: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+.card-text {
+  background-color: red;
+  padding: 10px;
+  color: white;
+}
+.flat {
+  text-align: center;
+}
